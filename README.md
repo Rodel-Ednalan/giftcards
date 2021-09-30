@@ -12,10 +12,6 @@
 
 1. Install using composer
 
-```
-composer create-project nilanth/laravel-react-boilerplate
-```
-
 2. `cd giftcards`
 3. Run `yarn install`
 4. Create a Database
