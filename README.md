@@ -20,4 +20,4 @@
 7. Run `php artisan db:seed` -> To seed some fake users.
 8. Run `yarn run dev`
 9. Update API HOST_URL in `resources/js/config/constant.js` file
-10. Run laravel php artisan serve --port=8080
+10. Run laravel `php artisan serve --port=8080`
